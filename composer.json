@@ -21,7 +21,7 @@
         "symfony/finder": "~3.0|~4.0",
         "symfony/filesystem": "~3.0|~4.0",
         "symfony/yaml": "~3.0|~4.0",
-        "symfony/process": "~3.0|~4.0",
+        "symfony/process": "^5.4.46",
         "phpdocumentor/reflection-docblock": "~2.0",
         "blackfire/php-sdk": "^1.5.18"
     },
